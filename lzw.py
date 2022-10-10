@@ -1,3 +1,5 @@
+## Баленко Д.А ИБ/б-21-1-о 10.10.2022
+
 import argparse
 import os
 import pickle
